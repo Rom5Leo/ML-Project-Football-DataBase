@@ -1,5 +1,18 @@
-# Football Match Classification - Machine Learning Project
+# Football Match Outcome Prediction — ML Project
 
-This project is part of the Machine Learning course at Bar-Ilan University, applying end-to-end data science techniques on football match data for classification tasks.
+This repository contains the full pipeline for a football match result prediction project.  
+The goal is to classify match outcomes into **Home Win**, **Draw**, or **Away Win** using match statistics and engineered features.
 
-📄 [Click here to view the full project protocol (PDF)](./FootballProject_Protocol.pdf)
+## 📄 Project Report (PDF)
+
+👉 [Download Full Project Protocol (PDF)](./Football_Match_Prediction_Protocol_FINAL_ENRICHED.pdf)
+
+The protocol includes:
+- Data source & objective
+- Full pipeline: Preprocessing → EDA → Feature Engineering → Modeling
+- Statistical testing (T-test, Chi-Square)
+- Model performance comparison
+- Visualizations and insights
+- Final deployment-ready model summary
+
+
